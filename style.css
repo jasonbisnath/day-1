@@ -31,30 +31,41 @@ html {
 }
 
 header {
-	background-color: red;
+	background-color: gold;
 	grid-column: span 3;
 	padding: 16px; 
+	text-align: center;
 }
 
 nav {
-	background-color: lightblue;
 	padding: 20px; 
+	text-align: center;
+	color: blue;
+	background-color: red
+	
 }
 
 main {
-	background-color: gold;
+	background-color: black;
 	padding: 20px;
+	text-align: center;
+	color: white;
+	
 }
 
 aside {
-	background-color: lightgreen;
+	background-color: black;
 	padding: 20px;
+	text-align: center;
+	color: red
 }
 
 footer {
-	background-color: silver;
+	background-color: gold;
 	grid-column: span 3;
 	padding: 16px;
+	text-align: center;
+	color: red
 }
 
 .container {
